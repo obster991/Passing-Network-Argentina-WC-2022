@@ -12,7 +12,7 @@ library(formattable)
 
 # Data loading ------------------------------------------------------------
 
-data_path = "C:/Users/andre/Desktop/progetto_ddcs/data/"
+data_path = "C:/Desktop/data/"
 
 # Load the data and reorder the columns
 first_half = read.csv(file=paste(data_path, "first_half.csv", sep=''), sep=',')
