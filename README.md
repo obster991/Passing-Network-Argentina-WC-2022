@@ -1,6 +1,6 @@
 # Passing-Network-Argentina-WC-2022
 
-![R-Studio](https://img.shields.io/badge/R_Studio-035a7d?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 All the details in description.pdf file.
 
