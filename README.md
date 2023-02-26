@@ -2,10 +2,10 @@
 
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
-All the details in description.pdf file.
+# About the project
+- All the details in description.pdf file.
+- Data are collected by hands.
 
-Data are collected by hands.
-
-Collaborators:
+# Collaborators:
 - [Andrea Potì](https://github.com/obster991)
 - [Davide Cacciatore](https://github.com/DavideCacciatore)
